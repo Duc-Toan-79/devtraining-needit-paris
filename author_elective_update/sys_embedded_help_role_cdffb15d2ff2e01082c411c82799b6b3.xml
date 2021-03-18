@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="DELETE">
+        <order>1000</order>
+        <role display_value="x_58872_needit.needit_user" name="x_58872_needit.needit_user">85ffb15d2ff2e01082c411c82799b6b1</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-09 02:44:52</sys_created_on>
+        <sys_id>cdffb15d2ff2e01082c411c82799b6b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>85ffb15d2ff2e01082c411c82799b6b1</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_embedded_help_role_cdffb15d2ff2e01082c411c82799b6b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-09 02:44:52</sys_updated_on>
+    </sys_embedded_help_role>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>0d50a49ddb1f1340b2e05d00cf961987</instance_id>
+        <instance_name>dev64573</instance_name>
+        <name>sys_embedded_help_role_cdffb15d2ff2e01082c411c82799b6b3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_58872_needit.needit_user" name="x_58872_needit.needit_user">85ffb15d2ff2e01082c411c82799b6b1</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-09 02:44:52</sys_created_on>
+        <sys_id>cdffb15d2ff2e01082c411c82799b6b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>85ffb15d2ff2e01082c411c82799b6b1</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_embedded_help_role_cdffb15d2ff2e01082c411c82799b6b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-09 02:44:52</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>]]></payload>
+        <payload_hash>85324053</payload_hash>
+        <record_name>85ffb15d2ff2e01082c411c82799b6b1</record_name>
+        <reverted_from/>
+        <source>ab62cc752ff2241082c411c82799b647</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-10 06:53:30</sys_created_on>
+        <sys_id>307200b52ff2241082c411c82799b685</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1781ae974970000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-10 06:53:30</sys_updated_on>
+        <type>Embedded Help Role Priority</type>
+        <update_guid>bc7200b58df22410bac720cd482bce84</update_guid>
+        <update_guid_history>bc7200b58df22410bac720cd482bce84:0,50628c7511f22410e09c6bbf9a32ff82:0,f282a751793ae010f338e92cb871ca2c:0,9d8e5f5d23f6e010d787b573705a9138:682983719,0d8e1f5d91f6e010d795226237278bbc:0,306e5b5d8df6e0109fc8fc6a76b6eed3:0,c4224edd67f2e01047865faf11aaa737:682983719,6f120edd93f2e01026d897d92305ffa3:-1244537317</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-10 07:00:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_embedded_help_role">sys_embedded_help_role</sys_db_object>
+        <sys_id>0e645f4c45b94d2c84924ef58ebbe2c4</sys_id>
+        <sys_metadata>cdffb15d2ff2e01082c411c82799b6b3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>85ffb15d2ff2e01082c411c82799b6b1</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete/>
+        <sys_update_name>sys_embedded_help_role_cdffb15d2ff2e01082c411c82799b6b3</sys_update_name>
+        <sys_update_version display_value="sys_embedded_help_role_cdffb15d2ff2e01082c411c82799b6b3">307200b52ff2241082c411c82799b685</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-10 07:00:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
